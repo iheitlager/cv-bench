@@ -1,0 +1,9 @@
+# Generated on Sun Feb 18 22:00:45 CET 2024
+coverage==7.4.1
+iniconfig==2.0.0
+numpy==1.26.4
+opencv-contrib-python==4.9.0.80
+packaging==23.2
+pluggy==1.4.0
+pytest==8.0.1
+ruff==0.2.2
